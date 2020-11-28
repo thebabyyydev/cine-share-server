@@ -1,0 +1,31 @@
+{
+  "name": "cine-share-server",
+  "version": "1.0.0",
+  "description": "SFU for cine-share",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebabyyydev/cine-share-server.git"
+  },
+  "keywords": [
+    "mediasoup",
+    "protoo",
+    "rtc"
+  ],
+  "author": "thebabyyydev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebabyyydev/cine-share-server/issues"
+  },
+  "homepage": "https://github.com/thebabyyydev/cine-share-server#readme",
+  "dependencies": {
+    "awaitqueue": "^2.3.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mediasoup": "^3.6.24",
+    "protoo-server": "^4.0.4"
+  }
+}
